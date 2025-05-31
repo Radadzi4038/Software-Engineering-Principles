@@ -69,5 +69,5 @@ These are the initial tasks I would plan for once requirements are finalized:
 9. Validate requirements with stakeholders
 10. Present prototype for client feedback
 
-Reference
+Reference:
 Wiegers, K. E., & Beatty, J. (2013). Software requirements (3rd ed.). Microsoft Press.
