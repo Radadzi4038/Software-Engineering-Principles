@@ -68,3 +68,6 @@ These are the initial tasks I would plan for once requirements are finalized:
 8. Recommend tools or platforms (e.g., Google Forms, Trello, onboarding apps)
 9. Validate requirements with stakeholders
 10. Present prototype for client feedback
+
+Reference
+Wiegers, K. E., & Beatty, J. (2013). Software requirements (3rd ed.). Microsoft Press.
